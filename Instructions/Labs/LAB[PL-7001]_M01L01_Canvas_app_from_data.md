@@ -139,4 +139,4 @@ In this module you will design and build a canvas app from an existing data sour
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
 
-1. Select the **+ Create** tab from the left-side menu of the Power Apps maker portal.
+1. Select the **Apps** tab from the left-side menu of the Power Apps maker portal.
