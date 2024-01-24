@@ -49,7 +49,7 @@ In this module you will design and build a canvas app from an existing data sour
 
 ### Task 1.2 - Primary column
 
-1. Select the drop-down caret next to **New column** and select **Edit columnn**.
+1. Select the drop-down caret next to **New column** and select **Edit column**.
 
     ![Screenshot of primary column.](../media/primary-column.png)
 
