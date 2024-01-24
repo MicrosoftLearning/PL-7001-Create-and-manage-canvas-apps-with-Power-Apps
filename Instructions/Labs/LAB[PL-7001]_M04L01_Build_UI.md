@@ -4,13 +4,13 @@ lab:
     module: 'Module 4: How to build the UI in a canvas app in Power Apps'
 ---
 
-# Practice Lab 4 – Build the U
+# Practice Lab 4 – Build the UI
 
-In this module you will design and build a canvas app from blank, add a data source and a gallery.
+In this module you will change the colors of the controls in the app.
 
 ## What you will learn
 
-- How to use themess
+- How to use themes
 - How to personalize your app
 
 ## High-level lab steps
