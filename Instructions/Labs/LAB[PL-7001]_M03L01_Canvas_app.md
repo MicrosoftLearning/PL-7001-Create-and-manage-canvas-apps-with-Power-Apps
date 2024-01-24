@@ -22,7 +22,7 @@ In this module you will design and build a canvas app from blank, add a data sou
   
 ## Prerequisites
 
-- Must have completed **Lab 02 Data model**
+- Must have completed **Lab 2: Data model**
 
 ## Detailed steps
 
