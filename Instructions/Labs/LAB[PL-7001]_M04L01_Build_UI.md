@@ -34,7 +34,7 @@ In this module you will change the colors of the controls in the app.
 
 1. Select the **Apps** tab from the left-side menu.
 
-1. Select the **Booking Request app**, select the Commands (**...**), select **Edit > Edit in new tab**.
+1. Select the **Booking Request app**, select the Commands (**...**), and select **Edit > Edit in new tab**.
 
 ### Task 1.2 - Select a theme
 

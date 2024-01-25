@@ -103,7 +103,7 @@ In this module you will add an external data source.
 
 1. Select the **Apps** tab from the left-side menu.
 
-1. Select the **Booking Request app**, select the Commands (**...**), select **Edit > Edit in new tab**.
+1. Select the **Booking Request app**, select the Commands (**...**), and select **Edit > Edit in new tab**.
 
 ### Task 2.2 - Add SharePoint as a data source
 
