@@ -123,7 +123,7 @@ In this module you will design and build a canvas app from an existing data sour
 
    1. Display name: `Decision`
    1. Data type: **Choice**
-   1. Required: **Business required**
+   1. Required: **Optional**
 
 1. Select **No** for **Sync with global choice?**
 
