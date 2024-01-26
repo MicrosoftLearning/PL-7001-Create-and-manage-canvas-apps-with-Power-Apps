@@ -6,7 +6,7 @@ lab:
 
 # Practice Lab 2 – Data model
 
-In this lab you will design and build a canvas app from an existing data source.
+In this lab you will create Dataverse tables and columns.
 
 ## What you will learn
 
