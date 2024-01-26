@@ -6,7 +6,7 @@ lab:
 
 # Practice Lab 7 – Manage canvas apps
 
-In this module you will manage your canvas app.
+In this lab you will manage your canvas app.
 
 ## What you will learn
 
@@ -42,7 +42,7 @@ In this module you will manage your canvas app.
 
     ![Screenshot of share action for an app.](../media/share-app-action.png)
 
-1. In the Share pane, enter `Everyone` annd select **Everyone in Contoso**.
+1. In the Share pane, enter `Everyone` and select **Everyone in Contoso**.
 
     ![Screenshot of share app pane.](../media/share-app-pane.png)
 

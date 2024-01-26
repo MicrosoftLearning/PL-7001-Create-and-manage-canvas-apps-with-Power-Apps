@@ -6,7 +6,7 @@ lab:
 
 # Practice Lab 6 – Forms
 
-In this module you will use forms to create and edit records in a data source.
+In this lab you will use forms to create and edit records in a data source.
 
 ## What you will learn
 

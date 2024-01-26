@@ -6,7 +6,7 @@ lab:
 
 # Practice Lab 4 – Build the UI
 
-In this module you will change the colors of the controls in the app.
+In this lab you will change the colors of the controls in the app.
 
 ## What you will learn
 

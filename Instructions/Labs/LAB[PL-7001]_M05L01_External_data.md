@@ -6,7 +6,7 @@ lab:
 
 # Practice Lab 5 – External data
 
-In this module you will add an external data source.
+In this lab you will add an external data source.
 
 ## What you will learn
 

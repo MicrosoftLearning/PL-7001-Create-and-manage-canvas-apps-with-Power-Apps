@@ -6,7 +6,7 @@ lab:
 
 # Practice Lab 1 – Create a canvas app from data
 
-In this module you will design and build a canvas app from an existing data source.
+In this lab you will design and build a canvas app from an existing data source.
 
 ## What you will learn
 

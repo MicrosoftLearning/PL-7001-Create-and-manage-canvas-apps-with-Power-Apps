@@ -6,7 +6,7 @@ lab:
 
 # Practice Lab 3 – Create a canvas app
 
-In this module you will design and build a canvas app from blank, add a data source and a gallery.
+In this lab you will design and build a canvas app from blank, add a data source and a gallery.
 
 ## What you will learn
 
