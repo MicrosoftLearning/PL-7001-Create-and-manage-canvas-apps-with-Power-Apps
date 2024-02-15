@@ -119,7 +119,7 @@ In this lab you will use forms to create and edit records in a data source.
 
     ![Screenshot of default form fields.](../media/add-fields-default.png)
 
-1. Remove **Created On** by selecting the ellipses (**...**) next to the field and selecting **Remove**.
+1. Remove **Created On** by selecting the ellipsis (**...**) next to the field and selecting **Remove**.
 
 1. Select **+ Add field** and select the following fields:
 
@@ -222,7 +222,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Select **2 selected** next to **Fields**.
 
-1. Remove **Created On** by selecting the ellipses (**...**) next to the field and selecting **Remove**.
+1. Remove **Created On** by selecting the ellipsis (**...**) next to the field and selecting **Remove**.
 
 1. Select **+ Add field** and select the following fields:
 

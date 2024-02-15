@@ -70,7 +70,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. In the app authoring menu, select **Tree view**.
 
-1. Select **Screen1** in the tree view and select the ellipses (**...**) and select **Rename**.
+1. Select **Screen1** in the tree view and select the ellipsis (**...**) and select **Rename**.
 
 1. Enter `MainScreen`.
 
@@ -124,7 +124,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
     ![Screenshot of adding a gallery.](../media/add-gallery.png)
 
-1. Select **Booking Requests**.
+1. Select **Booking Requests** for the data source.
 
     ![Screenshot of gallery properties.](../media/gallery-properties.png)
 
