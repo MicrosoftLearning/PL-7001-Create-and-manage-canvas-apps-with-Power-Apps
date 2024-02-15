@@ -195,7 +195,7 @@ In this lab you will create Dataverse tables and columns.
    1. Owner Email: Use your tenant email
    1. Start Date: **Pick a date in the next month**
    1. End Date: **Pick a date after the start date**
-   1. Cost: `500`
+   1. Cost: `1,500`
    1. Decision: **Undecided**
 
 1. Select **Inset row below** and enter or select the following values:
