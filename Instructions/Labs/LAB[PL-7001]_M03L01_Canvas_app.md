@@ -11,7 +11,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 ## What you will learn
 
 - How to create a canvas app with a gallery linked to a data source
-- How to format fields with Power Fx formulaa
+- How to format fields with Power Fx formula
 
 ## High-level lab steps
 
@@ -84,7 +84,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Rename the rectangle to `HeaderRect`.
 
-1. Set the properties of the rectangle as follows:
+1. Set the properties of the rectangle in the formula bar as follows:
 
    1. X=`0`
    1. Y=`0`
@@ -101,7 +101,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Rename the label to `HeaderLabel`.
 
-1. Set the properties of the label as follows:
+1. Set the properties of the label in the formula bar as follows:
 
    1. X=`0`
    1. Y=`0`
@@ -146,7 +146,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Rename the gallery to `BookingRequestList`.
 
-1. Set the properties of the gallery as follows:
+1. Set the properties of the gallery in the formula bar as follows:
 
    1. X=`0`
    1. Y=`80`
