@@ -33,7 +33,7 @@ In this lab you will add an external data source.
 
 ### Task 1.1 Create a SharePoint site
 
-1. In the [Power Apps maker portal](https://make.powerapps.com) select the **App launcher** in the top left of the browser window and then select **OneDrive**.
+1. In the [Power Apps maker portal](https://make.powerapps.com) select the **App launcher** in the top left of the browser window and then select **SharePoint**.
 
 1. In SharePoint, select **+Create site**.
 
@@ -141,7 +141,7 @@ In this lab you will add an external data source.
 
 1. Select **6 selected** next to **Fields**
 
-1. Select **Decision** for **Title**.
+1. Select **Pet Name** for **Title**.
 
 1. Select **Start Date** for **Subtitle**.
 
@@ -151,7 +151,7 @@ In this lab you will add an external data source.
 
 1. Rename the gallery to `BookingList`.
 
-1. Set the properties of the gallery as follows:
+1. Set the properties of the gallery in the formula bar as follows:
 
    1. X=`1000`
    1. Y=`80`
@@ -168,7 +168,7 @@ In this lab you will add an external data source.
 
 1. Select **NextArrow**.
 
-1. Set the **OnSelect** property of NextArrow to:
+1. Set the **OnSelect** property of NextArrow in the formula bar to:
 
     ```powerappsfl
     Collect(colRequests, ThisItem)
@@ -178,7 +178,7 @@ In this lab you will add an external data source.
 
 1. Select the **App** object.
 
-1. Set the **OnStart** property of NextArrow to:
+1. Set the **OnStart** property in the formula bar to:
 
     ```powerappsfl
     Clear(colRequests)
@@ -204,7 +204,7 @@ In this lab you will add an external data source.
 
     ![Screenshot of editing the gallery.](../media/icon-added-gallery.png)
 
-1. Set the properties of the icon as follows:
+1. Set the properties of the icon in the formula bar as follows:
 
    1. X=`150`
    1. Y=`40`
@@ -215,7 +215,7 @@ In this lab you will add an external data source.
 
 1. Rename the icon to `DeclineIcon`.
 
-1. Set the **OnSelect** property of **DeclineIcon** to:
+1. Set the **OnSelect** property of **DeclineIcon** in the formula bar to:
 
     ```powerappsfl
     Patch('Booking Requests', ThisItem, {Decision: 'Decision (Booking Requests)'.Declined})
@@ -247,7 +247,7 @@ In this lab you will add an external data source.
 
 1. Rename the label to `UserDetailsLabel`.
 
-1. Set the **OnSelect** property of **UserDetailsLabel** to:
+1. Set the **OnSelect** property of **UserDetailsLabel** in the formula bar to:
 
     ```powerappsfl
     Office365Users.MyProfile().Country
