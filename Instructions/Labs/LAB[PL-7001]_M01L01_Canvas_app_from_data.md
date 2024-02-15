@@ -79,6 +79,8 @@ In this lab you will design and build a canvas app from an existing data source.
 
     ![Screenshot of Browse screen in a three screen app.](../media/three-screen-app-browse-screen.png)
 
+1. If the **Welcome to Power Apps Studio** popup dialog is displayed, select **Don't show me this again** and select **Skip**.
+
 1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Machines App`, and select **Save**.
 
 ### Task 2.2 - Test the app
@@ -89,7 +91,7 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Select the **Edit** icon at the top right of the app. This opens the Edit screen.
 
-1. Change the **Machine Price** and select the **Submit** icon at the top right of the app.
+1. Change the **Machine Price** and select the **Submit item** tick icon at the top right of the app.
 
 1. Select the **<** icon at the top left of the app.
 
@@ -101,15 +103,15 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Enter `999` for **Machine Price**.
 
-1. Select the **Submit** icon at the top right of the app.
+1. Select the **Submit item** icon at the top right of the app.
 
 1. Enter `Demo` in  **Search items**.
 
 1. Select **X** in the upper right corner to stop the preview.
 
-1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
+1. If the **Did you know?** popup dialog is displayed, select **Don't show me this again** and select **Ok**.
 
-1. Select the **+ Create** tab from the left-side menu of the Power Apps maker portal.
+1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
 
 ## Exercise 3 – Build a canvas app with Copilot
 
@@ -135,7 +137,7 @@ In this lab you will design and build a canvas app from an existing data source.
 
     ![Screenshot of app by by copilot.](../media/copilot-app.png)
 
-1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Repair App`, and select **Save**.
+1. Select **Save** in the top-right of the Power Apps Studio.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
 
