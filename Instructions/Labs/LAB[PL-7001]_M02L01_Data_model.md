@@ -117,6 +117,8 @@ In this lab you will create Dataverse tables and columns.
    1. Format: **Text**
    1. Required: **Optional**
 
+1. Select **Save**.
+
 ### Task 1.4 - Add choice column
 
 1. In the **Booking Request columns and data** pane, select **+** and in the **New column** pane, enter or select the following values:
