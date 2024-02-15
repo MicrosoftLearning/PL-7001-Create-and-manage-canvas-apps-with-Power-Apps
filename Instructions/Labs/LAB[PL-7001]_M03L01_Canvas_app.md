@@ -11,7 +11,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 ## What you will learn
 
 - How to create a canvas app with a gallery linked to a data source
-- How to format fields with Power Fx formula
+- How to format fields with Power Fx formulas
 
 ## High-level lab steps
 
