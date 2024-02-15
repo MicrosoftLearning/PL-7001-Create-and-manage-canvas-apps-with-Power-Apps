@@ -64,7 +64,7 @@ In this lab you will add an external data source.
 
 1. Select **Save**.
 
-1. Select **Add column**, select **Text**, and select **Next**.
+1. Select **+ Add column**, select **Text**, and select **Next**.
 
 1. In the **Create a column** pane, enter or select the following values:
 
@@ -73,7 +73,7 @@ In this lab you will add an external data source.
 
 1. Select **Save**.
 
-1. Select **Add column**, select **Date and time**, and select **Next**.
+1. Select **+ Add column**, select **Date and time**, and select **Next**.
 
 1. In the **Create a column** pane, enter or select the following values:
 
@@ -82,7 +82,7 @@ In this lab you will add an external data source.
 
 1. Select **Save**.
 
-1. Select **Add column**, select **Date and time**, and select **Next**.
+1. Select **+ Add column**, select **Date and time**, and select **Next**.
 
 1. In the **Create a column** pane, enter or select the following values:
 
