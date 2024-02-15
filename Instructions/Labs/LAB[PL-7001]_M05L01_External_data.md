@@ -35,7 +35,9 @@ In this lab you will add an external data source.
 
 1. In the [Power Apps maker portal](https://make.powerapps.com) select the **App launcher** in the top left of the browser window and then select **SharePoint**.
 
-1. In SharePoint, select **+Create site**.
+1. If the **Welcome to SharePoint Start Page** popup dialog is displayed, select **X** to close the dialog.
+
+1. In SharePoint, select **+ Create site**.
 
 1. Select **Team site**, select **Standard team** template, and select **Use template**.
 
@@ -44,6 +46,8 @@ In this lab you will add an external data source.
 1. Select **Create site**.
 
 1. Select **Finish**.
+
+1. If the **Start designing your site** popup dialog is displayed, close the dialog.
 
 ### Task 1.2 Create a SharePoint list
 
@@ -55,7 +59,7 @@ In this lab you will add an external data source.
 
 1. Enter `Bookings` for **Name**  and select **Create**.
 
-1. Select **Add column**, select **Text**, and select **Next**.
+1. Select **+ Add column**, select **Text**, and select **Next**.
 
 1. In the **Create a column** pane, enter or select the following values:
 
@@ -247,7 +251,7 @@ In this lab you will add an external data source.
 
 1. Rename the label to `UserDetailsLabel`.
 
-1. Set the **OnSelect** property of **UserDetailsLabel** in the formula bar to:
+1. Set the **Text** property of **UserDetailsLabel** in the formula bar to:
 
     ```powerappsfl
     Office365Users.MyProfile().Country
