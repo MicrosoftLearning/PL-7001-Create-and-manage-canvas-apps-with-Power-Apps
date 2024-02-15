@@ -163,7 +163,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
     ![Screenshot of body field selected.](../media/body.png)
 
-1. Set the **Text** property to the formula:
+1. Set the **Text** property in the formula bar to the formula:
 
     ```powerappsfl
     Text(Value(ThisItem.Cost), "$#,##0.00")
