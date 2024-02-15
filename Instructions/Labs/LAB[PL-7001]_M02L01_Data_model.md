@@ -149,6 +149,8 @@ In this lab you will create Dataverse tables and columns.
 
 1. In the left navigation pane, select **Tables**.
 
+1. Select **Booking Request**.
+
 1. In the **Booking Request columns and data** pane, select **+** and in the **New column** pane, enter or select the following values:
 
    1. Display name: `Account`
