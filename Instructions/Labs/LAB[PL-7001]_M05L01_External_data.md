@@ -33,9 +33,11 @@ In this lab you will add an external data source.
 
 ### Task 1.1 Create a SharePoint site
 
-1. In the [Power Apps maker portal](https://make.powerapps.com) select the **App launcher** in the top left of the browser window and then select **OneDrive**.
+1. In the [Power Apps maker portal](https://make.powerapps.com) select the **App launcher** in the top left of the browser window and then select **SharePoint**.
 
-1. In SharePoint, select **+Create site**.
+1. If the **Welcome to SharePoint Start Page** popup dialog is displayed, select **X** to close the dialog.
+
+1. In SharePoint, select **+ Create site**.
 
 1. Select **Team site**, select **Standard team** template, and select **Use template**.
 
@@ -44,6 +46,8 @@ In this lab you will add an external data source.
 1. Select **Create site**.
 
 1. Select **Finish**.
+
+1. If the **Start designing your site** popup dialog is displayed, close the dialog.
 
 ### Task 1.2 Create a SharePoint list
 
@@ -55,7 +59,7 @@ In this lab you will add an external data source.
 
 1. Enter `Bookings` for **Name**  and select **Create**.
 
-1. Select **Add column**, select **Text**, and select **Next**.
+1. Select **+ Add column**, select **Text**, and select **Next**.
 
 1. In the **Create a column** pane, enter or select the following values:
 
@@ -64,7 +68,7 @@ In this lab you will add an external data source.
 
 1. Select **Save**.
 
-1. Select **Add column**, select **Text**, and select **Next**.
+1. Select **+ Add column**, select **Text**, and select **Next**.
 
 1. In the **Create a column** pane, enter or select the following values:
 
@@ -73,7 +77,7 @@ In this lab you will add an external data source.
 
 1. Select **Save**.
 
-1. Select **Add column**, select **Date and time**, and select **Next**.
+1. Select **+ Add column**, select **Date and time**, and select **Next**.
 
 1. In the **Create a column** pane, enter or select the following values:
 
@@ -82,7 +86,7 @@ In this lab you will add an external data source.
 
 1. Select **Save**.
 
-1. Select **Add column**, select **Date and time**, and select **Next**.
+1. Select **+ Add column**, select **Date and time**, and select **Next**.
 
 1. In the **Create a column** pane, enter or select the following values:
 
@@ -141,7 +145,7 @@ In this lab you will add an external data source.
 
 1. Select **6 selected** next to **Fields**
 
-1. Select **Decision** for **Title**.
+1. Select **Pet Name** for **Title**.
 
 1. Select **Start Date** for **Subtitle**.
 
@@ -151,7 +155,7 @@ In this lab you will add an external data source.
 
 1. Rename the gallery to `BookingList`.
 
-1. Set the properties of the gallery as follows:
+1. Set the properties of the gallery in the formula bar as follows:
 
    1. X=`1000`
    1. Y=`80`
@@ -168,7 +172,7 @@ In this lab you will add an external data source.
 
 1. Select **NextArrow**.
 
-1. Set the **OnSelect** property of NextArrow to:
+1. Set the **OnSelect** property of NextArrow in the formula bar to:
 
     ```powerappsfl
     Collect(colRequests, ThisItem)
@@ -178,7 +182,7 @@ In this lab you will add an external data source.
 
 1. Select the **App** object.
 
-1. Set the **OnStart** property of NextArrow to:
+1. Set the **OnStart** property in the formula bar to:
 
     ```powerappsfl
     Clear(colRequests)
@@ -204,7 +208,7 @@ In this lab you will add an external data source.
 
     ![Screenshot of editing the gallery.](../media/icon-added-gallery.png)
 
-1. Set the properties of the icon as follows:
+1. Set the properties of the icon in the formula bar as follows:
 
    1. X=`150`
    1. Y=`40`
@@ -215,7 +219,7 @@ In this lab you will add an external data source.
 
 1. Rename the icon to `DeclineIcon`.
 
-1. Set the **OnSelect** property of **DeclineIcon** to:
+1. Set the **OnSelect** property of **DeclineIcon** in the formula bar to:
 
     ```powerappsfl
     Patch('Booking Requests', ThisItem, {Decision: 'Decision (Booking Requests)'.Declined})
@@ -247,7 +251,7 @@ In this lab you will add an external data source.
 
 1. Rename the label to `UserDetailsLabel`.
 
-1. Set the **OnSelect** property of **UserDetailsLabel** to:
+1. Set the **Text** property of **UserDetailsLabel** in the formula bar to:
 
     ```powerappsfl
     Office365Users.MyProfile().Country

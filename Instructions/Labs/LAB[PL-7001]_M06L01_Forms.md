@@ -65,9 +65,11 @@ In this lab you will use forms to create and edit records in a data source.
 
 ### Task 1.3 - Add navigation
 
-1. Select **NextArrow** in **BookingRequestList** in the **MainScreen**.
+1. In the **Tree view**, expand **BookingRequestList** in the **MainScreen**.
 
-1. Set the **OnSelect** property of NextArrow to:
+1. Select **NextArrow** in **BookingRequestList**.
+
+1. Set the **OnSelect** property of NextArrow in the formula bar to:
 
     ```powerappsfl
     Collect(colRequests, ThisItem);Navigate(DetailScreen, ScreenTransition.Cover);
@@ -90,6 +92,8 @@ In this lab you will use forms to create and edit records in a data source.
 1. In the **Tree view**, select the icon and select the Commands (**...**) and select **Copy**.
 
 1. Expand **DetailScreen**.
+
+1. Expand **ScreenContainer**.
 
 1. Select **HeaderContainer** and select the Commands (**...**) and select **Paste**.
 
@@ -119,7 +123,7 @@ In this lab you will use forms to create and edit records in a data source.
 
     ![Screenshot of default form fields.](../media/add-fields-default.png)
 
-1. Remove **Created On** by selecting the ellipses (**...**) next to the field and selecting **Remove**.
+1. Remove **Created On** by selecting the ellipsis (**...**) next to the field and selecting **Remove**.
 
 1. Select **+ Add field** and select the following fields:
 
@@ -148,7 +152,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. **Close** the **Fields** pane.
 
-1. Set the **Item** property of the form viewer control to:
+1. Set the **Item** property of the form viewer control in the formula bar to:
 
     ```powerappsfl
     BookingRequestList.Selected
@@ -222,7 +226,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Select **2 selected** next to **Fields**.
 
-1. Remove **Created On** by selecting the ellipses (**...**) next to the field and selecting **Remove**.
+1. Remove **Created On** by selecting the ellipsis (**...**) next to the field and selecting **Remove**.
 
 1. Select **+ Add field** and select the following fields:
 
@@ -266,7 +270,7 @@ In this lab you will use forms to create and edit records in a data source.
 
     ![Screenshot of the configured booking request form.](../media/bookingrequestform.png)
 
-### Task 3.2 - Add Submit button
+### Task 3.2 - Add submit button
 
 1. In the app authoring menu, select **Tree view**.
 

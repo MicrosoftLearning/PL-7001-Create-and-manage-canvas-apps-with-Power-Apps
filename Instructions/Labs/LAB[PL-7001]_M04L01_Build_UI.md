@@ -52,7 +52,7 @@ In this lab you will change the colors of the controls in the app.
 
 1. Select **NextArrow**.
 
-1. Set the **Color** property of NextArrow to:
+1. Set the **Color** property of NextArrow in the formula bar to:
 
     ```powerappsfl
     RGBA(164, 38, 44, 1)
@@ -60,7 +60,7 @@ In this lab you will change the colors of the controls in the app.
 
 1. Select **Body**.
 
-1. Set the **Color** property of Body to:
+1. Set the **Color** property of Body in the formula bar to:
 
     ```powerappsfl
     If(ThisItem.Cost > 1000, RGBA(164, 38, 44, 1), Color.Black)
@@ -84,7 +84,7 @@ In this lab you will change the colors of the controls in the app.
 
 1. Rename the label to `UserLabel`.
 
-1. Set the properties of the label as follows:
+1. Set the properties of the label in the formula bar as follows:
 
    1. X=`1100`
    1. Y=`20`

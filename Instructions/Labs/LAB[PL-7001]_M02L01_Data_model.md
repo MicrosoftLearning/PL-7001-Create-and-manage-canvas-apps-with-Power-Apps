@@ -117,6 +117,8 @@ In this lab you will create Dataverse tables and columns.
    1. Format: **Text**
    1. Required: **Optional**
 
+1. Select **Save**.
+
 ### Task 1.4 - Add choice column
 
 1. In the **Booking Request columns and data** pane, select **+** and in the **New column** pane, enter or select the following values:
@@ -149,6 +151,8 @@ In this lab you will create Dataverse tables and columns.
 
 1. In the left navigation pane, select **Tables**.
 
+1. Select **Booking Request**.
+
 1. In the **Booking Request columns and data** pane, select **+** and in the **New column** pane, enter or select the following values:
 
    1. Display name: `Account`
@@ -159,3 +163,49 @@ In this lab you will create Dataverse tables and columns.
     ![Screenshot of new lookup column pane.](../media/new-lookup.png)
 
 1. Select **Save**.
+
+## Exercise 3 – Data
+
+### Task 3.1 - Add booking request records
+
+1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+
+1. Make sure you are in the **Dev One** environment.
+
+1. In the left navigation pane, select **Tables**.
+
+1. Select **Booking Request**.
+
+1. In the **Booking Request columns and data** pane, select the drop-down caret next to **Edit** and select **Edit in new tab**.
+
+1. Enter or select the following values:
+
+   1. Pet Name: `Fido`
+   1. Owner Name: `MOD Administrator`
+   1. Owner Email: Use your tenant email
+   1. Start Date: **Tomorrow**
+   1. End Date: **Pick a date in the following week**
+   1. Cost: `1,000`
+   1. Decision: **Accepted**
+
+1. Select **Inset row below** and enter or select the following values:
+
+   1. Pet Name: `Tom`
+   1. Owner Name: `MOD Administrator`
+   1. Owner Email: Use your tenant email
+   1. Start Date: **Pick a date in the next month**
+   1. End Date: **Pick a date after the start date**
+   1. Cost: `1,500`
+   1. Decision: **Undecided**
+
+1. Select **Inset row below** and enter or select the following values:
+
+   1. Pet Name: `Jim`
+   1. Owner Name: `MOD Administrator`
+   1. Owner Email: Use your tenant email
+   1. Start Date: **Pick a future date in the current month**
+   1. End Date: **Pick a date after the start date**
+   1. Cost: `250`
+   1. Decision: **Declined**
+
+1. Close the edit data tab.

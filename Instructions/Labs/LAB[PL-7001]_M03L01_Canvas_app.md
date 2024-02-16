@@ -11,7 +11,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 ## What you will learn
 
 - How to create a canvas app with a gallery linked to a data source
-- How to format fields with Power Fx formulaa
+- How to format fields with Power Fx formulas
 
 ## High-level lab steps
 
@@ -70,7 +70,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. In the app authoring menu, select **Tree view**.
 
-1. Select **Screen1** in the tree view and select the ellipses (**...**) and select **Rename**.
+1. Select **Screen1** in the tree view and select the ellipsis (**...**) and select **Rename**.
 
 1. Enter `MainScreen`.
 
@@ -84,7 +84,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Rename the rectangle to `HeaderRect`.
 
-1. Set the properties of the rectangle as follows:
+1. Set the properties of the rectangle in the formula bar as follows:
 
    1. X=`0`
    1. Y=`0`
@@ -101,7 +101,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Rename the label to `HeaderLabel`.
 
-1. Set the properties of the label as follows:
+1. Set the properties of the label in the formula bar as follows:
 
    1. X=`0`
    1. Y=`0`
@@ -124,7 +124,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
     ![Screenshot of adding a gallery.](../media/add-gallery.png)
 
-1. Select **Booking Requests**.
+1. Select **Booking Requests** for the data source.
 
     ![Screenshot of gallery properties.](../media/gallery-properties.png)
 
@@ -146,7 +146,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Rename the gallery to `BookingRequestList`.
 
-1. Set the properties of the gallery as follows:
+1. Set the properties of the gallery in the formula bar as follows:
 
    1. X=`0`
    1. Y=`80`
@@ -163,7 +163,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
     ![Screenshot of body field selected.](../media/body.png)
 
-1. Set the **Text** property to the formula:
+1. Set the **Text** property in the formula bar to the formula:
 
     ```powerappsfl
     Text(Value(ThisItem.Cost), "$#,##0.00")

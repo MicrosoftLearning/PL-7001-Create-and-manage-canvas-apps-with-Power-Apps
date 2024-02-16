@@ -96,7 +96,7 @@ In this lab you will manage your canvas app.
 
 1. Select the **Booking Request app**, select the Commands (**...**), and select **Edit > Edit in new tab**.
 
-1. Select the Select the drop-down caret next to **Save** in the top-right of the Power Apps Studio.
+1. Select the drop-down caret next to **Save** in the top-right of the Power Apps Studio.
 
 1. Select **Download a copy**.
 
