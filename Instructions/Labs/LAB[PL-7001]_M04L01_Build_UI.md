@@ -48,9 +48,9 @@ In this lab you will change the colors of the controls in the app.
 
 1. In the app authoring menu, select **Tree view**.
 
-1. Expand the gallery.
+1. Expand the **BookingRequestList** gallery.
 
-1. Select **NextArrow**.
+1. Select **NextArrow2**.
 
 1. Set the **Color** property of NextArrow in the formula bar to:
 
@@ -58,7 +58,7 @@ In this lab you will change the colors of the controls in the app.
     RGBA(164, 38, 44, 1)
     ```
 
-1. Select **Body**.
+1. Select **Body1**.
 
 1. Set the **Color** property of Body in the formula bar to:
 
@@ -68,11 +68,12 @@ In this lab you will change the colors of the controls in the app.
 
 1. Select **Save** in the top-right of the Power Apps Studio.
 
+
 ## Exercise 2 – Personalization
 
 ### Task 2.1 - Add user label
 
-1. Click outside of the gallery on the blank canvas.
+1. Select outside of the gallery on the blank canvas or select the **MainScreen**.
 
 1. In the app authoring menu, select **Insert (+)**.
 
