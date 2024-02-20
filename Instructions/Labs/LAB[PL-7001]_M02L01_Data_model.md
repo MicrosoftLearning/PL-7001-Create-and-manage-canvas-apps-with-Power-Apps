@@ -29,7 +29,7 @@ In this lab you will create Dataverse tables and columns.
 
 ### Task 1.1 - Create the Booking Request table
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -39,7 +39,7 @@ In this lab you will create Dataverse tables and columns.
 
     ![Screenshot of creating a new table in Dataverse.](../media/create-new-table-dataverse.png)
 
-1. Select the **pencil** icon next to New table
+1. Select the **Edit table properties** pencil icon next to **New table**.
 
     ![Screenshot of new table name.](../media/table-name.png)
 
@@ -145,7 +145,7 @@ In this lab you will create Dataverse tables and columns.
 
 ### Task 2.1 - Create a lookup column
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -209,3 +209,4 @@ In this lab you will create Dataverse tables and columns.
    1. Decision: **Declined**
 
 1. Close the edit data tab.
+
