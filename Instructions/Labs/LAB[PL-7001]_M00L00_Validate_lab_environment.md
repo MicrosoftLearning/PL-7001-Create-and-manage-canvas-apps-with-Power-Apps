@@ -28,11 +28,11 @@ In this exercise, you will verify that you can access Power Apps.
 
 1. Select **Sign in**.
 
-1. Enter the `email address` provided by the Authorized Lab Host.
+1. Enter the email address provided by the Authorized Lab Host.
 
 1. Select **Next**.
 
-1. Enter the `password` provided by the Authorized Lab Host.
+1. Enter the password provided by the Authorized Lab Host.
 
 1. Select **Sign in**.
 
