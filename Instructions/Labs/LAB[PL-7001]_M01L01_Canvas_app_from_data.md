@@ -41,7 +41,7 @@ In this lab you will design and build a canvas app from an existing data source.
 
     ![Screenshot of OneDrive icon.](../media/select-onedrive.png)
 
-1. Select **Your OneDrive is ready**.
+1. If presented with a pop-up, select **Your OneDrive is ready**.
 
 1. Select **+ Add new** and then select **Files upload**
 
