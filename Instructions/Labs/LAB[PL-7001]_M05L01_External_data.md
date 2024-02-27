@@ -33,9 +33,9 @@ In this lab you will add an external data source.
 
 ### Task 1.1 Create a SharePoint site
 
-1. In the [Power Apps maker portal](https://make.powerapps.com) select the **App launcher** in the top left of the browser window and then select **SharePoint**.
+1. In the Power Apps maker portal, `https://make.powerapps.com` select the **App launcher** in the top left of the browser window and then select **SharePoint**.
 
-1. If the **Welcome to SharePoint Start Page** popup dialog is displayed, select **X** to close the dialog.
+1. If the **Welcome to SharePoint Start Page** popup dialog is displayed, select **✖** to close the dialog.
 
 1. In SharePoint, select **+ Create site**.
 
@@ -47,7 +47,8 @@ In this lab you will add an external data source.
 
 1. Select **Finish**.
 
-1. If the **Start designing your site** popup dialog is displayed, close the dialog.
+1. If the **Start designing your site** pop-up dialog is displayed, close the dialog.
+
 
 ### Task 1.2 Create a SharePoint list
 
@@ -57,7 +58,7 @@ In this lab you will add an external data source.
 
 1. Select **Blank list**
 
-1. Enter `Bookings` for **Name**  and select **Create**.
+1. Enter `Bookings` for **Name** and select **Create**.
 
 1. Select **+ Add column**, select **Text**, and select **Next**.
 
@@ -97,17 +98,19 @@ In this lab you will add an external data source.
 
 1. Copy the first part of the URL of the SharePoint site, for example `https://m365x99999999.sharepoint.com/sites/Petboarding/`
 
+
 ## Exercise 2 – Add SharePoint list to canvas app
 
 ### Task 2.1 - Edit the app
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
-1. Select the **Apps** tab from the left-side menu.
+1. Select the **Apps** tab from the left navigation menu.
 
 1. Select the **Booking Request app**, select the Commands (**...**), and select **Edit > Edit in new tab**.
+
 
 ### Task 2.2 - Add SharePoint as a data source
 
@@ -121,7 +124,7 @@ In this lab you will add an external data source.
 
 1. Select **Connect directly (cloud services)** and select **Connect**.
 
-1. Enter the URL of the SharePoint site you created earlier in this lab
+1. Enter the URL of the SharePoint site you created earlier in this lab.
 
     ![Screenshot of connect to SharePoint site.](../media/select-sharepoint-site.png)
 
@@ -145,11 +148,11 @@ In this lab you will add an external data source.
 
 1. Select **6 selected** next to **Fields**
 
-1. Select **Pet Name** for **Title**.
+1. Select **Pet Name** for **Title3**.
 
-1. Select **Start Date** for **Subtitle**.
+1. Select **Start Date** for **Subtitle3**.
 
-1. Close the Data pane.
+1. Close the **Data** pane.
 
 1. In the app authoring menu, select **Tree view**.
 
@@ -206,14 +209,14 @@ In this lab you will add an external data source.
 
 1. Select **Blocked**. The icon will be added to each row in the gallery.
 
-    ![Screenshot of editing the gallery.](../media/icon-added-gallery.png)
-
 1. Set the properties of the icon in the formula bar as follows:
 
    1. X=`150`
    1. Y=`40`
    1. Height=`30`
    1. Width=`30`
+
+    ![Screenshot of editing the gallery.](../media/icon-added-gallery.png)
 
 1. In the app authoring menu, select **Tree view**.
 
@@ -237,9 +240,10 @@ In this lab you will add an external data source.
 
 1. Select **Connect**.
 
+
 ### Task 5.2 Display the user's country
 
-1. Click outside of the gallery on the blank canvas.
+1. Select outside of the gallery on the blank canvas, or select the **MainScreen** on the **Tree view**.
 
 1. In the app authoring menu, select **Insert (+)**.
 
@@ -257,6 +261,14 @@ In this lab you will add an external data source.
     Office365Users.MyProfile().Country
     ```
 
+1. Set the properties of the label in the formula bar as follows:
+
+   1. X=`930`
+   1. Y=`20`
+   1. Size=`18`
+   1. Color=`Color.White`
+
 1. Select **Save** in the top-right of the Power Apps Studio.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
+

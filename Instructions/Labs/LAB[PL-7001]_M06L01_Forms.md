@@ -37,13 +37,14 @@ In this lab you will use forms to create and edit records in a data source.
 
 ### Task 1.1 - Edit the app
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
-1. Select the **Apps** tab from the left-side menu.
+1. Select the **Apps** tab from the left navigation menu.
 
 1. Select the **Booking Request app**, select the Commands (**...**), and select **Edit > Edit in new tab**.
+
 
 ### Task 1.2 - Add screens
 
@@ -62,6 +63,7 @@ In this lab you will use forms to create and edit records in a data source.
 1. Select **Header and footer**.
 
 1. Rename the screen to `DetailScreen`.
+
 
 ### Task 1.3 - Add navigation
 
@@ -96,6 +98,7 @@ In this lab you will use forms to create and edit records in a data source.
 1. Expand **ScreenContainer**.
 
 1. Select **HeaderContainer** and select the Commands (**...**) and select **Paste**.
+
 
 ## Exercise 2 – Details screen
 
@@ -270,6 +273,7 @@ In this lab you will use forms to create and edit records in a data source.
 
     ![Screenshot of the configured booking request form.](../media/bookingrequestform.png)
 
+
 ### Task 3.2 - Add submit button
 
 1. In the app authoring menu, select **Tree view**.
@@ -365,3 +369,4 @@ In this lab you will use forms to create and edit records in a data source.
 1. Select **Save** in the top-right of the Power Apps Studio.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
+

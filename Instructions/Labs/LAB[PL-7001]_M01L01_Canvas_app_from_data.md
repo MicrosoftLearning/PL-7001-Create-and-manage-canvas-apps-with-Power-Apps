@@ -51,6 +51,7 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Select **My files** and verify that CoffeeMachineData.xlsx has been uploaded.
 
+
 ## Exercise 2 – Build a three-screen canvas app
 
 ### Task 2.1 - Create the app
@@ -75,13 +76,14 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Select **Connect**.
 
+1. If the **Welcome to Power Apps Studio** pop-up dialog is displayed, select **Don't show me this again** and select **Skip**.
+
 1. Wait for the app to be built.
 
     ![Screenshot of Browse screen in a three screen app.](../media/three-screen-app-browse-screen.png)
 
-1. If the **Welcome to Power Apps Studio** popup dialog is displayed, select **Don't show me this again** and select **Skip**.
-
 1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Machines App`, and select **Save**.
+
 
 ### Task 2.2 - Test the app
 
@@ -109,21 +111,22 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Select **X** in the upper right corner to stop the preview.
 
-1. If the **Did you know?** popup dialog is displayed, select **Don't show me this again** and select **Ok**.
+1. If the **Did you know?** pop-up dialog is displayed, select **Don't show me this again** and select **Ok**.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
+
 
 ## Exercise 3 – Build a canvas app with Copilot
 
 ### Task 3.1 - Create the app
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
-1. Select the **Home** tab from the left-side menu.
+1. Select the **Home** tab from the left navigation menu.
 
-1. Under **Let's build an app. What should it do?** enter `Track coffee machine repairs for customers and assign repairs to technicians` and select the arrow icon.
+1. Under **Let's build an app. What should it do?** enter `Track coffee machine repairs for customers and assign repairs to technicians` and select the **Go** arrow icon to submit.
 
     ![Screenshot of copilot prompt.](../media/copilot-prompt.png)
 
