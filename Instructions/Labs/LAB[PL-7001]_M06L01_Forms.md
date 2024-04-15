@@ -304,7 +304,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Select **BookingRequestForm**.
 
-1. Set the **OnSuccess** property of the button to:
+1. Set the **OnSuccess** property of the form to:
 
     ```powerappsfl
     Navigate(MainScreen, ScreenTransition.UnCover)
