@@ -188,7 +188,7 @@ In this lab you will create Dataverse tables and columns.
    1. Cost: `1,000`
    1. Decision: **Accepted**
 
-1. Select **Inset row below** and enter or select the following values:
+1. Select **Insert row below** and enter or select the following values:
 
    1. Pet Name: `Tom`
    1. Owner Name: `MOD Administrator`
@@ -198,7 +198,7 @@ In this lab you will create Dataverse tables and columns.
    1. Cost: `1,500`
    1. Decision: **Undecided**
 
-1. Select **Inset row below** and enter or select the following values:
+1. Select **Insert row below** and enter or select the following values:
 
    1. Pet Name: `Jim`
    1. Owner Name: `MOD Administrator`
