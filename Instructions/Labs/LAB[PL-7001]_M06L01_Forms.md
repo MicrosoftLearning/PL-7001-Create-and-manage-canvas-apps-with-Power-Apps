@@ -108,9 +108,9 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Expand **DetailScreen**.
 
-1. Expand **ScreenContainer**.
+1. Expand **ScreenContainer1**.
 
-1. Select  **MainContainer**.
+1. Select  **MainContainer1**.
 
 1. In the app authoring menu, select **Insert (+)**.
 
@@ -167,9 +167,9 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Expand **DetailScreen**.
 
-1. Expand **ScreenContainer**.
+1. Expand **ScreenContainer1**.
 
-1. Select  **FooterContainer**.
+1. Select  **FooterContainer1**.
 
 1. Select  **+** within the Footer container.
 
@@ -189,9 +189,9 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Expand **DetailScreen**.
 
-1. Expand **ScreenContainer**.
+1. Expand **ScreenContainer1**.
 
-1. Select  **FooterContainer**.
+1. Select  **FooterContainer1**.
 
 1. In the app authoring menu, select **Insert (+)**.
 
