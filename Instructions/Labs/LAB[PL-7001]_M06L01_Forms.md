@@ -132,7 +132,7 @@ In this lab you will use forms to create and edit records in a data source.
 
    1. Decision
    
-    ![Screenshot of adding fields to the form.](../media/add-fields1.png)
+    ![Screenshot of adding fields to the form.](../media/add-fields.png)
 
 1. Select **Add**.
 
