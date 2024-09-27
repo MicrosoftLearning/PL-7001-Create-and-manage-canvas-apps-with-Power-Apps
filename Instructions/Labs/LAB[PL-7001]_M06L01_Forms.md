@@ -122,21 +122,16 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the FormViewer's properties, select **Booking Requests** for **Data source**.
 
-1. Select **2 selected** next to **Fields**.
+1. Select **8 selected** next to **Fields**.
 
     ![Screenshot of default form fields.](../media/add-fields-default.png)
 
-1. Remove **Created On** by selecting the ellipsis (**...**) next to the field and selecting **Remove**.
+1. Remove **Status** and **Notes** Fields by selecting the ellipsis (**...**) next to the fields and selecting **Remove**.
 
-1. Select **+ Add field** and select the following fields:
+1. Select **+ Add field** and select the following field:
 
-   1. Cost
    1. Decision
-   1. End Date
-   1. Owner Email
-   1. Owner Name
-   1. Start Date
-
+   
     ![Screenshot of adding fields to the form.](../media/add-fields.png)
 
 1. Select **Add**.
@@ -227,19 +222,9 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the Form's properties, select **Booking Requests** for **Data source**.
 
-1. Select **2 selected** next to **Fields**.
+1. Select **8 selected** next to **Fields**.
 
-1. Remove **Created On** by selecting the ellipsis (**...**) next to the field and selecting **Remove**.
-
-1. Select **+ Add field** and select the following fields:
-
-   1. Cost
-   1. End Date
-   1. Owner Email
-   1. Owner Name
-   1. Start Date
-
-1. Select **Add**.
+1. Remove **Decision** and **Notes** by selecting the ellipsis (**...**) next to the fields and selecting **Remove**.
 
 1. Drag the fields into the following order:
 

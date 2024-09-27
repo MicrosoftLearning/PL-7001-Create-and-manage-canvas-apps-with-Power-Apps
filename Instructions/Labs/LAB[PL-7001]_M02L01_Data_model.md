@@ -35,29 +35,21 @@ In this lab you will create Dataverse tables and columns.
 
 1. In the left navigation pane, select **Tables**.
 
-1. Select **+ New table**, and select **Add columns and data**.
+1. Select **+ New table**, and choose **Set advanced properties**.
 
     ![Screenshot of creating a new table in Dataverse.](../media/create-new-table-dataverse.png)
 
-1. Select the **Edit table properties** pencil icon next to **New table**.
-
-    ![Screenshot of new table name.](../media/table-name.png)
-
 1. Enter `Booking Request` for **Display name**.
-
-1. Select **Save**.
 
 ### Task 1.2 - Primary column
 
-1. Select the drop-down caret next to **New column** and select **Edit column**.
+1. Select the **primary column** tab next to the **Properties** tab
 
     ![Screenshot of primary column.](../media/primary-column.png)
 
 1. Enter `Pet Name` for **Display name**.
 
-1. Select **Update**.
-
-1. Select **Create**.
+1. Select **Save**.
 
 ### Task 1.3 - Add columns
 

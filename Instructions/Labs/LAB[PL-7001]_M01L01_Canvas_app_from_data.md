@@ -126,15 +126,23 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Select the **Home** tab from the left navigation menu.
 
-1. Under **Let's build an app. What should it do?** enter `Track coffee machine repairs for customers and assign repairs to technicians` and select the **Go** arrow icon to submit.
+1. Under **Let's build an app. What should it do?** enter `Assign coffee repairs to technicians per customer request` and select the **Go** arrow icon to submit.
 
     ![Screenshot of copilot prompt.](../media/copilot-prompt.png)
 
+    Copilot will begin to build a table structure to support your application.
+
+    > **IMPORTANT:** 
+    > When using generative AI, you will not always get the same exact results. It is possible that your table will not exactly match the table created for another student. 
+
+    > To see the table structure, select the table and click on **View data** button 
 1. Review the table
 
     ![Screenshot of copilot table.](../media/copilot-table.png)
 
-1. Select **Create app**
+1. Once you are happy with your table, select the **Save and open app** button. 
+
+1. If necessary, On the **Done working?** screen, select **Don’t ask me again**, and select the **Save and open app** button. 
 
 1. Wait for the app to be built.
 
