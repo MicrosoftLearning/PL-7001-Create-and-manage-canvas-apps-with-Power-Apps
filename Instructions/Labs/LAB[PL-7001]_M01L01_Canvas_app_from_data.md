@@ -124,7 +124,10 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Make sure you are in the **Dev One** environment.
 
-1. Select the **Home** tab from the left navigation menu.
+1. Select the **Home** tab from the left navigation menu. 
+
+   > If **Try the new Power Apps experience** toggle is enabled, please disable it for this lab to function properly.
+   > We will be launching new labs soon with the updated experience.
 
 1. Under **Let's build an app. What should it do?** enter `Assign coffee repairs to technicians per customer request` and select the **Go** arrow icon to submit.
 

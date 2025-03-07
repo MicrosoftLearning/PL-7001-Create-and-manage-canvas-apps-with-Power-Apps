@@ -35,7 +35,7 @@ In this lab you will create Dataverse tables and columns.
 
 1. In the left navigation pane, select **Tables**.
 
-1. Select **+ New table**, and choose **Set advanced properties**.
+1. Select **+ New table**, and choose **Table (advanced properties)**.
 
     ![Screenshot of creating a new table in Dataverse.](../media/create-new-table-dataverse.png)
 
