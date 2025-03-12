@@ -126,17 +126,7 @@ In this lab you will use forms to create and edit records in a data source.
 
     ![Screenshot of default form fields.](../media/add-fields-default.png)
 
-1. Remove **Status** and **Notes** Fields by selecting the ellipsis (**...**) next to the fields and selecting **Remove**.
-
-1. Select **+ Add field** and select the following field:
-
-   1. Decision
-   
-    ![Screenshot of adding fields to the form.](../media/add-fields.png)
-
-1. Select **Add**.
-
-1. Drag the fields into the following order:
+1. Add or remove the fields so that they are arranged in following order :
 
    1. Pet Name
    1. Owner Name
@@ -224,9 +214,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Select **8 selected** next to **Fields**.
 
-1. Remove **Decision** and **Notes** by selecting the ellipsis (**...**) next to the fields and selecting **Remove**.
-
-1. Drag the fields into the following order:
+1. Add or remove the fields so that they are arranged in following order :
 
    1. Pet Name
    1. Owner Name
