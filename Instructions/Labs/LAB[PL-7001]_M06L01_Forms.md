@@ -45,12 +45,11 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Select the **Booking Request app**, select the Commands (**...**), and select **Edit > Edit in new tab**.
 
-
 ### Task 1.2 - Add screens
 
 1. In the app authoring menu, select **Tree view**.
 
-1. In action bar in the Power Apps Studio, select **New screen**.
+1. At the top of the Tree view, select **+ New screen**.
 
     ![Screenshot of new screen.](../media/add-screen.png)
 
@@ -58,12 +57,11 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Rename the screen to `EditScreen`.
 
-1. In action bar in the Power Apps Studio, select **New screen**.
+1. At the top of the Tree view, select **+ New screen**.
 
 1. Select **Header and footer**.
 
 1. Rename the screen to `DetailScreen`.
-
 
 ### Task 1.3 - Add navigation
 
@@ -91,14 +89,17 @@ In this lab you will use forms to create and edit records in a data source.
     Back()
     ```
 
+1. Rename the icon to `BackIconEdit`.
+
 1. In the **Tree view**, select the icon and select the Commands (**...**) and select **Copy**.
 
 1. Expand **DetailScreen**.
 
 1. Expand **ScreenContainer**.
 
-1. Select **HeaderContainer** and select the Commands (**...**) and select **Paste**.
+1. Select **HeaderContainer** and select the Commands (**...**) and select **Paste** and select **Paste**.
 
+1. Rename the icon to `BackIconDetail`.
 
 ## Exercise 2 – Details screen
 
@@ -122,7 +123,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the FormViewer's properties, select **Booking Requests** for **Data source**.
 
-1. Select **8 selected** next to **Fields**.
+1. Select **10 selected** next to **Fields**.
 
     ![Screenshot of default form fields.](../media/add-fields-default.png)
 
@@ -212,7 +213,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the Form's properties, select **Booking Requests** for **Data source**.
 
-1. Select **8 selected** next to **Fields**.
+1. Select **9 selected** next to **Fields**.
 
 1. Add or remove the fields so that they are arranged in following order :
 
