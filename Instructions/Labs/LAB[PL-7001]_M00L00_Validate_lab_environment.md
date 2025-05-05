@@ -38,8 +38,22 @@ In this exercise, you will verify that you can access Power Apps.
 
 1. Optionally, select **Yes** to stay signed in.
 
+1. If prompted to **Sign into Microsoft Edge**, select **No, thanks**.
+
 1. If prompted for contact information, leave the Country/region as the default value and enter `0123456789` for Phone number and select **Submit**.
 
 1. At the top right of the screen, verify that the **Environment** is set to **Dev One**. This is where you will be working for the entirety of this lab. If it is not, select the **Dev One** environment.
 
     ![Environment selector.](../media/select-dev-one-environment.png)
+
+1. Close the **Select environment** pane.
+
+### Task 1.2 – Update browser
+
+Applying the latest updates to the browser prevents issues in the next lab when building apps.
+
+1. Open **Microsoft Edge** browser .
+
+1. Select the **Commands (...)** in the top right of the browser, select **Help and feedback**, and select **About Microsoft Edge**.
+
+1. Apply updates and restart the browser if necessary.

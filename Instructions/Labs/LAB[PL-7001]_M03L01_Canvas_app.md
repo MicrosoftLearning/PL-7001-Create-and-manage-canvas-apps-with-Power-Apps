@@ -36,24 +36,13 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Select the **+ Create** tab from the left navigation menu.
 
-1. Select the **Blank app** tile under **Start from**.
+1. Select the **Start with a blank canvas** tile under **Create your apps**.
 
-1. Select **Create** under the **Blank canvas app** tile.
+1. Select **Tablet size**.
 
-    ![Screenshot of create from blank.](../media/create-from-blank.png)
+1. Wait for the blank app to be built.
 
-1. Enter `Booking Request app` for **App name**.
-
-1. Select **Tablet** for **Format**.
-
-    ![Screenshot of new app name.](../media/app-name-format.png)
-
-1. Select **Create**.
-
-1. Wait for the app to be built.
-
-1. Select **Save** in the top-right of the Power Apps Studio.
-
+1. Select **Save** in the top-right of the Power Apps Studio, enter `Booking Request app`, and select **Save**.
 
 ### Task 1.2 - Add data source
 
@@ -66,7 +55,6 @@ In this lab you will design and build a canvas app from blank, add a data source
     ![Screenshot of select data source.](../media/studio-data-search.png)
 
 1. Select the **Booking Requests** Microsoft Dataverse table.
-
 
 ### Task 1.3 - Configure the main screen
 
@@ -118,7 +106,6 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Select **Save** in the top-right of the Power Apps Studio.
 
-
 ### Task 1.4 - Add a gallery
 
 1. In the app authoring menu, select **Insert (+)**.
@@ -137,6 +124,8 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Select **Cost** for **Body1**.
 
+   > **NOTE:** The field names may show as schema names with a prefix isntead of the display name.
+
 1. Select **Decision** for **Subtitle2**.
 
 1. Select **Pet Name** for **Title2**.
@@ -149,13 +138,14 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Rename the gallery to `BookingRequestList`.
 
+1. If a suggestions popup dialog appears, select **Cancel**.
+
 1. Set the properties of the gallery in the formula bar as follows:
 
    1. X=`0`
    1. Y=`80`
    1. Height=`575`
    1. Width=`250`
-
 
 ### Task 1.5 - Format the currency field
 
@@ -176,4 +166,3 @@ In this lab you will design and build a canvas app from blank, add a data source
 1. Select **Save** in the top-right of the Power Apps Studio.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
-

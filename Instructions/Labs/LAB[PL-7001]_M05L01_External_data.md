@@ -49,14 +49,13 @@ In this lab you will add an external data source.
 
 1. If the **Start designing your site** pop-up dialog is displayed, close the dialog.
 
-
 ### Task 1.2 Create a SharePoint list
 
 1. In the SharePoint site, select **+ New** and then select **List**.
 
     ![Screenshot of new SharePoint list.](../media/new-sharepoint-list.png)
 
-1. Select **Blank list**
+1. Select **List** under **Create from blank**.
 
 1. Enter `Bookings` for **Name** and select **Create**.
 
@@ -98,7 +97,6 @@ In this lab you will add an external data source.
 
 1. Copy the first part of the URL of the SharePoint site, for example `https://m365x99999999.sharepoint.com/sites/Petboarding/`
 
-
 ## Exercise 2 – Add SharePoint list to canvas app
 
 ### Task 2.1 - Edit the app
@@ -110,7 +108,6 @@ In this lab you will add an external data source.
 1. Select the **Apps** tab from the left navigation menu.
 
 1. Select the **Booking Request app**, select the Commands (**...**), and select **Edit > Edit in new tab**.
-
 
 ### Task 2.2 - Add SharePoint as a data source
 
