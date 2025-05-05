@@ -148,7 +148,7 @@ In this lab you will design and build a canvas app from an existing data source.
     > **IMPORTANT:**
     > When using generative AI, you will not always get the same exact results. It is possible that your table will not exactly match the table created for another student.
 
-1. Select the **ellipses (...)** next to the table and select **View data**.
+1. Select the **Commands (...)** next to the table and select **View data**.
 
     ![Screenshot of copilot table.](../media/copilot-table-view-data.png)
 

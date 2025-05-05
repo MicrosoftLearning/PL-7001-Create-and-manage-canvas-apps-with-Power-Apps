@@ -54,6 +54,6 @@ Applying the latest updates to the browser prevents issues in the next lab when 
 
 1. Open **Microsoft Edge** browser .
 
-1. Select the **Ellipses (...)** in the rop right of the browser, select **Help and feedback**, and select **About Microsoft Edge**.
+1. Select the **Commands (...)** in the top right of the browser, select **Help and feedback**, and select **About Microsoft Edge**.
 
 1. Apply updates and restart the browser if necessary.
