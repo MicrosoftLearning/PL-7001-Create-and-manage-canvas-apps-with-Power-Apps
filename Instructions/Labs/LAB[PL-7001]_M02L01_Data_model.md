@@ -105,7 +105,7 @@ In this lab you will create Dataverse tables and columns.
 1. In the **Booking Request columns and data** pane, select **+** and in the **New column** pane, enter or select the following values:
 
    1. Display name: `Notes`
-   1. Data type: **Multiple lines of text**
+   1. Data type: **Text** > **Multiple lines of text** > **Plain text**
    1. Format: **Text**
    1. Required: **Optional**
 
@@ -116,7 +116,7 @@ In this lab you will create Dataverse tables and columns.
 1. In the **Booking Request columns and data** pane, select **+** and in the **New column** pane, enter or select the following values:
 
    1. Display name: `Decision`
-   1. Data type: **Choice**
+   1. Data type: **Choice** > **Choice**
    1. Required: **Optional**
 
 1. Select **No** for **Sync with global choice?**
@@ -148,7 +148,7 @@ In this lab you will create Dataverse tables and columns.
 1. In the **Booking Request columns and data** pane, select **+** and in the **New column** pane, enter or select the following values:
 
    1. Display name: `Account`
-   1. Data type: **Lookup**
+   1. Data type: **Lookup** > **Lookup**
    1. Required: **Optional**
    1. Related table: **Account**
 
