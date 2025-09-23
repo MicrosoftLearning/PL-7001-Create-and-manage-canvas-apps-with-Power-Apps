@@ -170,7 +170,7 @@ In this lab you will add an external data source.
 
 1. Expand **BookingRequestList**.
 
-1. Select **NextArrow**.
+1. Select **NextArrow2**.
 
 1. Set the **OnSelect** property of NextArrow in the formula bar to:
 
@@ -209,11 +209,11 @@ In this lab you will add an external data source.
 1. Set the properties of the icon in the formula bar as follows:
 
    1. X=`150`
-   1. Y=`40`
+   1. Y=`60`
    1. Height=`30`
    1. Width=`30`
 
-    ![Screenshot of editing the gallery.](../media/icon-added-gallery.png)
+    ![Screenshot of editing the icon.](../media/icon-added-gallery.png)
 
 1. In the app authoring menu, select **Tree view**.
 
@@ -223,6 +223,39 @@ In this lab you will add an external data source.
 
     ```powerappsfl
     Patch('Booking Requests', ThisItem, {Decision: 'Decision (Booking Requests)'.Declined})
+    ```
+
+### Task 4.2 Confirm booking request
+
+1. In the app authoring menu, select **Tree view**.
+
+1. Select **BookingRequestList**.
+
+1. Select the **pencil** icon in the top-left of the gallery control.
+
+1. In the app authoring menu, select **Insert (+)**.
+
+1. Expand **Icons**.
+
+1. Select **Add**. The icon will be added to each row in the gallery.
+
+1. Set the properties of the icon in the formula bar as follows:
+
+   1. X=`150`
+   1. Y=`10`
+   1. Height=`30`
+   1. Width=`30`
+
+1. In the app authoring menu, select **Tree view**.
+
+1. Rename the icon to `AcceptIcon`.
+
+    ![Screenshot of editing the icons.](../media/icons-added-gallery.png)
+
+1. Set the **OnSelect** property of **AcceptIcon** in the formula bar to:
+
+    ```powerappsfl
+    Patch(Bookings,Defaults(Bookings),{Title:"New Booking",'Pet Name':ThisItem.'Pet Name','Owner Name':ThisItem.'Owner Name', 'Start Date':ThisItem.'Start Date','End Date':ThisItem.'End Date'})
     ```
 
 ## Exercise 5 – Office 365 Users
@@ -236,7 +269,6 @@ In this lab you will add an external data source.
 1. Select **Office 365 Users**.
 
 1. Select **Connect**.
-
 
 ### Task 5.2 Display the user's country
 
@@ -268,4 +300,3 @@ In this lab you will add an external data source.
 1. Select **Save** in the top-right of the Power Apps Studio.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
-

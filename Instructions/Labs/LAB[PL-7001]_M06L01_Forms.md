@@ -67,7 +67,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the **Tree view**, expand **BookingRequestList** in the **MainScreen**.
 
-1. Select **NextArrow** in **BookingRequestList**.
+1. Select **NextArrow2** in **BookingRequestList**.
 
 1. Set the **OnSelect** property of NextArrow in the formula bar to:
 
@@ -95,9 +95,9 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Expand **DetailScreen**.
 
-1. Expand **ScreenContainer**.
+1. Expand **ScreenContainer1**.
 
-1. Select **HeaderContainer** and select the Commands (**...**) and select **Paste** and select **Paste**.
+1. Select **HeaderContainer1** and select the Commands (**...**) and select **Paste**.
 
 1. Rename the icon to `BackIconDetail`.
 
@@ -123,7 +123,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the FormViewer's properties, select **Booking Requests** for **Data source**.
 
-1. Select **10 selected** next to **Fields**.
+1. Select **8 selected** next to **Fields**.
 
     ![Screenshot of default form fields.](../media/add-fields-default.png)
 
@@ -247,7 +247,6 @@ In this lab you will use forms to create and edit records in a data source.
 
     ![Screenshot of the configured booking request form.](../media/bookingrequestform.png)
 
-
 ### Task 3.2 - Add submit button
 
 1. In the app authoring menu, select **Tree view**.
@@ -290,9 +289,9 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Expand **DetailScreen**.
 
-1. Expand **ScreenContainer**.
+1. Expand **ScreenContainer1**.
 
-1. Select  **HeaderContainer**.
+1. Select  **HeaderContainer1**.
 
 1. In the app authoring menu, select **Insert (+)**.
 
@@ -343,4 +342,3 @@ In this lab you will use forms to create and edit records in a data source.
 1. Select **Save** in the top-right of the Power Apps Studio.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
-

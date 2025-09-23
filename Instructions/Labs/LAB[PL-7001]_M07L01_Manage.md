@@ -50,7 +50,6 @@ In this lab you will manage your canvas app.
 
 1. **Close** the Share app pane.
 
-
 ### Task 1.2 - Publish the Booking Request app
 
 1. Select the **Booking Request app**, select the Commands (**...**), and select **Details**.
@@ -67,7 +66,6 @@ In this lab you will manage your canvas app.
 
 1. Select **Publish this version** again.
 
-
 ## Exercise 2 – Export
 
 ### Task 2.1 - Export the Booking Request app
@@ -82,7 +80,7 @@ In this lab you will manage your canvas app.
 
 1. Enter `Booking Request app` for **Name**.
 
-1. Select **Update** under **IMPORT SETUP**.
+1. Select **Update** under **Import setup**.
 
 1. Select **Create as new** and select **Save**.
 
@@ -91,7 +89,6 @@ In this lab you will manage your canvas app.
 1. Select **Export**.
 
 1. Wait for package to be created and downloaded. This creates a zip file in your **Downloads** folder.
-
 
 ### Task 2.2 - Save the app locally
 
@@ -106,4 +103,3 @@ In this lab you will manage your canvas app.
 1. Select **Download**.  This creates a .msapp file in your **Downloads** folder.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
-
