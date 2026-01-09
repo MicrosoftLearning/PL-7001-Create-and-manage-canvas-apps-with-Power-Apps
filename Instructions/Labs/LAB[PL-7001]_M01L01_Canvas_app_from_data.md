@@ -31,7 +31,7 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. In a web browser, navigate to [CoffeeMachineData.xlsx](https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx) at `https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx`.
 
-1. Select the **Raw** file button to download the Excel workbook.
+1. Select the **Download** file button to download the Excel workbook.
 
     ![Screenshot of Raw download icon in GitHub.](../media/raw-download.png)
 
