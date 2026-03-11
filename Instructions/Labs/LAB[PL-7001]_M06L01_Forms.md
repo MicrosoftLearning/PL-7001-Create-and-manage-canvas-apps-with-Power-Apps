@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 6: Forms'
-    module: 'Module 6: Write data in a Power Apps canvas app'
+  title: 'Lab 6: Forms'
+  module: 'Module 6: Write data in a Power Apps canvas app'
+  description: In this lab you will use forms to create and edit records in a data source.
+  duration: 164 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab 6 – Forms
