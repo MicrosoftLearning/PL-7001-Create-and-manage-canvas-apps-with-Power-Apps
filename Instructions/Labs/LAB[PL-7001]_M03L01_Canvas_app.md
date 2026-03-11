@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 3: Create a canvas app'
-    module: 'Module 3: Customize a canvas app in Power Apps'
+  title: 'Lab 3: Create a canvas app'
+  module: 'Module 3: Customize a canvas app in Power Apps'
+  description: In this lab you will design and build a canvas app from blank, add a data source and a gallery.
+  duration: 150 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab 3 – Create a canvas app
