@@ -3,7 +3,7 @@ lab:
   title: 'Lab 0: Validate lab environment'
   module: 'Module 0: Course Introduction'
   description: In this exercise, you will verify that you can access Power Apps.
-  duration: 48 minutes
+  duration: 10 minutes
   level: 100
   islab: true
   primarytopics:
