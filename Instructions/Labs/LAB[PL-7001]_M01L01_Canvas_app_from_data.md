@@ -3,7 +3,7 @@ lab:
   title: 'Lab 1: Create a canvas app from data'
   module: 'Module 1: Get started with Power Apps canvas apps'
   description: In this lab you will design and build a canvas app from an existing data source.
-  duration: 132 minutes
+  duration: 20 minutes
   level: 100
   islab: true
 ---
