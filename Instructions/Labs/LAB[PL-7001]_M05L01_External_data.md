@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 5: External data'
-    module: 'Module 5: Work with external data in a Power Apps canvas app'
+  title: 'Lab 5: External data'
+  module: 'Module 5: Work with external data in a Power Apps canvas app'
+  description: In this lab you will add an external data source.
+  duration: 30 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab 5 – External data

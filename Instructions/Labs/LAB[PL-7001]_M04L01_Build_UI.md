@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 4: Build the UI'
-    module: 'Module 4: How to build the UI in a canvas app in Power Apps'
+  title: 'Lab 4: Build the UI'
+  module: 'Module 4: How to build the UI in a canvas app in Power Apps'
+  description: In this lab you will change the colors of the controls in the app.
+  duration: 10 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab 4 – Build the UI
