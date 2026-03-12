@@ -3,7 +3,7 @@ lab:
   title: 'Lab 2: Data model'
   module: 'Module 2: Get started with Microsoft Dataverse'
   description: In this lab you will create Dataverse tables and columns.
-  duration: 156 minutes
+  duration: 40 minutes
   level: 100
   islab: true
 ---
