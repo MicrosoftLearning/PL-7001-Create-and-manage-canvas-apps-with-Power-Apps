@@ -3,7 +3,7 @@ lab:
   title: 'Lab 7: Manage canvas apps'
   module: 'Module 7: Publish, share, and maintain a canvas app'
   description: In this lab you will manage your canvas app.
-  duration: 84 minutes
+  duration: 10 minutes
   level: 100
   islab: true
 ---
