@@ -14,14 +14,14 @@ In this lab you will design and build a canvas app from an existing data source.
 
 ## What you will learn
 
-- How to create Power Apps canvas apps from data and with CoPilot
+- How to create Power Apps canvas apps from data and with Copilot
 - How to connect to Excel using OneDrive for Business as a data source
 
 ## High-level lab steps
 
 - Create a canvas app from data
 - Test the app
-- Create a canvas app with CoPilot
+- Create a canvas app with Copilot
   
 ## Prerequisites
 
