@@ -46,7 +46,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Wait for the blank app to be built.
 
-1. Select **Save** in the top-right of the Power Apps Studio, enter `Booking Request app`, and select **Save**.
+1. Select **Save** in the top-right of the Power Apps Studio, enter `Booking Request app` for **Name**, and then select **Save**.
 
 ### Task 1.2 - Add data source
 
