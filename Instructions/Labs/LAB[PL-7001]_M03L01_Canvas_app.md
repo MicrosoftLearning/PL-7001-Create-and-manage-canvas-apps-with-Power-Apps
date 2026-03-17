@@ -70,7 +70,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. In the app authoring menu, select **Insert (+)**.
 
-1. Select **Rectangle**.
+1. Expand the **Shapes** category and select **Rectangle**.
 
 1. Drag the rectangle to the top left of the screen.
 
