@@ -163,7 +163,7 @@ In this lab you will design and build a canvas app from an existing data source.
 
     ![Screenshot of app by by copilot.](../media/copilot-app.png)
 
-1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Machine Repairs App`, and select **Save**.
+1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Machine Repairs App` for **Name**, and then select **Save**.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
 
