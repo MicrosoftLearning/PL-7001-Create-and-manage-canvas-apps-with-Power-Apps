@@ -95,6 +95,7 @@ In this lab you will create Dataverse tables and columns.
 
    1. Display name: `End Date`
    1. Data type: **Date and time**
+   1. Format: **Date and time**
    1. Required: **Optional**
 
 1. Select **Save**.
