@@ -126,7 +126,9 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Make sure you are in the **Dev One** environment.
 
-1. Select the **+ Create** tab from the left-side menu.
+1. Select the **Apps** tab from the left-side menu.
+
+1. Select the **+New app** dropdown, and then **Start with Copilot**.
 
 1. Select the **Start with Copilot** tile under **Create your apps**.
 
