@@ -40,7 +40,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Select the **+ Create** tab from the left navigation menu.
 
-1. Select the **Start with a blank canvas** tile under **Create your apps**.
+1. Select the **Create from blank** tile under **Start from design**.
 
 1. Select **Tablet size**.
 
