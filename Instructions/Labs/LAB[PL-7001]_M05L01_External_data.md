@@ -43,7 +43,7 @@ In this lab you will add an external data source.
 
 1. In SharePoint, select **+ Create site**.
 
-1. Select **Team site**, select **Standard team** template, and select **Use template**.
+1. Select **Team site**, select **Standard team** template, and then select **Use template**.
 
 1. Enter `Pet boarding` for **Site name** and select **Next**.
 
