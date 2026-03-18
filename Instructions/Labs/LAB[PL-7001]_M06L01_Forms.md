@@ -119,7 +119,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the app authoring menu, select **Insert (+)**.
 
-1. Expand **Input**.
+1. Expand **Classic**.
 
 1. Select  **Display form**.
 
