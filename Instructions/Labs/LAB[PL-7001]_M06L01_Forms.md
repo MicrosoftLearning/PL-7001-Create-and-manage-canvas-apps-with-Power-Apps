@@ -83,7 +83,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the app authoring menu, select **Insert (+)**.
 
-1. Expand **Icons**.
+1. Expand **Classic icons**.
 
 1. Select **Back arrow**.
 
@@ -299,7 +299,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the app authoring menu, select **Insert (+)**.
 
-1. Expand **Icons**.
+1. Expand **Classic icons**.
 
 1. Select **Edit**.
 
@@ -321,7 +321,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the app authoring menu, select **Insert (+)**.
 
-1. Expand **Icons**.
+1. Expand **Classic icons**.
 
 1. Select **Add**.
 
