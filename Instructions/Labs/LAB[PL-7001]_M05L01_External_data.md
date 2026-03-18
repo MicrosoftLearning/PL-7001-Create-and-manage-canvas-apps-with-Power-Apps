@@ -206,7 +206,7 @@ In this lab you will add an external data source.
 
 1. In the app authoring menu, select **Insert (+)**.
 
-1. Expand **Icons**.
+1. Expand **Classic Icons**.
 
 1. Select **Blocked**. The icon will be added to each row in the gallery.
 
