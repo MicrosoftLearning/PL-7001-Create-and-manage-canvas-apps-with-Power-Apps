@@ -106,4 +106,6 @@ In this lab you will manage your canvas app.
 
 1. Select **Download**.  This creates a .msapp file in your **Downloads** folder.
 
+1. Select **Save**.
+
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
