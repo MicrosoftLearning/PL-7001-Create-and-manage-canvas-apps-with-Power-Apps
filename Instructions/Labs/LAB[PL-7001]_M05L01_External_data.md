@@ -293,6 +293,7 @@ In this lab you will add an external data source.
     ```powerappsfl
     Office365Users.MyProfile().Country
     ```
+> **Note:** If the user´s country is not displayed, go to `https://admin.microsoft.com`, select **Users** > **Active users**, open the user profile, select **Manage contact information**, and then set the **Country or region** field.
 
 1. Set the properties of the label in the formula bar as follows:
 
