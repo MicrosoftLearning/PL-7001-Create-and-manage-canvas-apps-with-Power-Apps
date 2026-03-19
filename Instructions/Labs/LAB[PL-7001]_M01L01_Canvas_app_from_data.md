@@ -14,14 +14,14 @@ In this lab you will design and build a canvas app from an existing data source.
 
 ## What you will learn
 
-- How to create Power Apps canvas apps from data and with CoPilot
+- How to create Power Apps canvas apps from data and with Copilot
 - How to connect to Excel using OneDrive for Business as a data source
 
 ## High-level lab steps
 
 - Create a canvas app from data
 - Test the app
-- Create a canvas app with CoPilot
+- Create a canvas app with Copilot
   
 ## Prerequisites
 
@@ -65,17 +65,10 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Select the **+ Create** tab from the left-side menu.
 
-1. Select the **Start with data** tile under **Create your apps**.
+1. Select the **Excel Online (Business)** tile under **Start from data**.
 
-    ![Screenshot of Start from data tile.](../media/start-with-data.png)
+    ![Screenshot of Start from data tile.](../media/start-from-data.png)
 
-1. Select the **Connect external data** tile under **Other ways to get started**.
-
-    ![Screenshot of Connect external data tile.](../media/connect-external-data.png)
-
-1. Select the **From Excel** tile under **Choose a data set to start**.
-
-    ![Screenshot of Start from Excel tile.](../media/from-excel.png)
 
 1. An **Excel Online (Business)** connection will automatically be created after a short delay.
 
@@ -97,7 +90,7 @@ In this lab you will design and build a canvas app from an existing data source.
 
     ![Screenshot of the Main screen of the Coffee Machines app.](../media/coffee-machines-app.png)
 
-1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Machines App`, and select **Save**.
+1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Machines App` for **Name**, and then select **Save**.
 
 ### Task 2.2 - Test the app
 
@@ -133,7 +126,9 @@ In this lab you will design and build a canvas app from an existing data source.
 
 1. Make sure you are in the **Dev One** environment.
 
-1. Select the **+ Create** tab from the left-side menu.
+1. Select the **Apps** tab from the left-side menu.
+
+1. Select the **+New app** dropdown, and then **Start with Copilot**.
 
 1. Select the **Start with Copilot** tile under **Create your apps**.
 
@@ -168,7 +163,7 @@ In this lab you will design and build a canvas app from an existing data source.
 
     ![Screenshot of app by by copilot.](../media/copilot-app.png)
 
-1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Machine Repairs App`, and select **Save**.
+1. Select **Save** in the top-right of the Power Apps Studio, enter `Coffee Machine Repairs App` for **Name**, and then select **Save**.
 
 1. Select the **<- Back** button from the top left of the command bar, and select **Leave** to exit the app.
 
