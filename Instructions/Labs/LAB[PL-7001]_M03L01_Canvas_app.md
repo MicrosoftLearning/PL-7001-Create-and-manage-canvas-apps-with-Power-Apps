@@ -40,13 +40,13 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Select the **+ Create** tab from the left navigation menu.
 
-1. Select the **Start with a blank canvas** tile under **Create your apps**.
+1. Select the **Create from blank** tile under **Start from design**.
 
 1. Select **Tablet size**.
 
 1. Wait for the blank app to be built.
 
-1. Select **Save** in the top-right of the Power Apps Studio, enter `Booking Request app`, and select **Save**.
+1. Select **Save** in the top-right of the Power Apps Studio, enter `Booking Request app` for **Name**, and then select **Save**.
 
 ### Task 1.2 - Add data source
 
@@ -70,7 +70,7 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. In the app authoring menu, select **Insert (+)**.
 
-1. Select **Rectangle**.
+1. Expand the **Shapes** category and select **Rectangle**.
 
 1. Drag the rectangle to the top left of the screen.
 
