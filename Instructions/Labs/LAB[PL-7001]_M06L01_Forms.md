@@ -69,7 +69,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 ### Task 1.3 - Add navigation
 
-1. In the **Tree view**, expand **BookingRequestList** in the **MainScreen**.
+1. In the **Tree view**, under **MainScreen**, expand **BookingRequestList**.
 
 1. Select **NextArrow2** in **BookingRequestList**.
 
