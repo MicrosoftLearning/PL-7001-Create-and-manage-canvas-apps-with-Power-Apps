@@ -68,7 +68,7 @@ In this lab you will add an external data source.
 1. In the **Create a column** pane, enter or select the following values:
 
    1. Name: `Pet Name`
-   1. Data type: **Single line of text**
+   1. Type: **Single line of text**
 
 1. Select **Save**.
 
@@ -77,7 +77,7 @@ In this lab you will add an external data source.
 1. In the **Create a column** pane, enter or select the following values:
 
    1. Name: `Owner Name`
-   1. Data type: **Single line of text**
+   1. Type: **Single line of text**
 
 1. Select **Save**.
 
