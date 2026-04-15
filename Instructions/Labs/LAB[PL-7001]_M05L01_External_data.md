@@ -86,7 +86,7 @@ In this lab you will add an external data source.
 1. In the **Create a column** pane, enter or select the following values:
 
    1. Name: `Start Date`
-   1. Data type: **Date and time**
+   1. Type: **Date and time**
 
 1. Select **Save**.
 
@@ -95,7 +95,7 @@ In this lab you will add an external data source.
 1. In the **Create a column** pane, enter or select the following values:
 
    1. Name: `End Date`
-   1. Data type: **Date and time**
+   1. Type: **Date and time**
 
 1. Select **Save**.
 
