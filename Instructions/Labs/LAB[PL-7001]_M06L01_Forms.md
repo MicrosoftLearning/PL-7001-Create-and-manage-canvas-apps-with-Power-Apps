@@ -127,7 +127,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the FormViewer's properties, select **Booking Requests** for **Data source**.
 
-1. Select **8 selected** next to **Fields**.
+1. In the **Properties** pane, select the link shown next to **Fields** (e.g., **8 selected**).
 
     ![Screenshot of default form fields.](../media/add-fields-default.png)
 
