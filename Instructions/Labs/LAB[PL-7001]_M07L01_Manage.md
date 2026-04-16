@@ -62,11 +62,9 @@ In this lab you will manage your canvas app.
 
     ![Screenshot of app versions.](../media/app-versions.png)
 
-1. Select the highest version.
+1. Select the highest version, then select **Publish this version**.
 
     ![Screenshot of publishing latest version.](../media/app-publish.png)
-
-1. Select **Publish this version**.
 
 1. Select **Publish this version** to confirm.
 
