@@ -161,7 +161,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Select  **FooterContainer1**.
 
-1. Select  **+** within the Footer container.
+1. In the **Footer** container, select **+**.
 
     ![Screenshot of adding a control to the container.](../media/add-control-container.png)
 
