@@ -163,9 +163,9 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the **Footer** container, select **+**.
 
-    ![Screenshot of adding a control to the container.](../media/add-control-container.png)
+1. Select **Text label**.
 
-1. Select **Text label**
+    ![Screenshot of adding a control to the container.](../media/add-control-container.png)
 
 1. Set the **Text** property of the label to:
 
@@ -217,7 +217,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the Form's properties, select **Booking Requests** for **Data source**.
 
-1. Select **9 selected** next to **Fields**.
+1. In the **Properties** pane, select the link shown next to **Fields** (e.g., **9 selected**).
 
 1. Add or remove the fields so that they are arranged in following order :
 
