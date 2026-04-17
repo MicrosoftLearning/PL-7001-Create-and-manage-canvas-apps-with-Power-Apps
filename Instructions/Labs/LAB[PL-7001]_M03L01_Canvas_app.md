@@ -128,7 +128,8 @@ In this lab you will design and build a canvas app from blank, add a data source
 
 1. Select **Cost** for **Body1**.
 
-   > **NOTE:** The field names may show as schema names with a prefix instead of the display name.
+   > [!NOTE]
+   > The field names may appear as schema names with a prefix instead of the display name.
 
 1. Select **Decision** for **Subtitle2**.
 
