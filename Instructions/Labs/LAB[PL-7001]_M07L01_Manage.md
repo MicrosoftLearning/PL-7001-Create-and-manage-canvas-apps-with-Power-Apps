@@ -46,13 +46,13 @@ In this lab you will manage your canvas app.
 
     ![Screenshot of share action for an app.](../media/share-app-action.png)
 
-1. In the Share pane, enter `Everyone` and select **Everyone in Contoso**.
+1. In the **Share** dialog, enter `Everyone` and select **Everyone in Contoso**.
 
-    ![Screenshot of share app pane.](../media/share-app-pane.png)
+    ![Screenshot of share app pane.](../media/share-app-dialog.png)
 
 1. Select **Share**.
 
-1. **Close** the Share app pane.
+1. **Close** the **Share** dialog.
 
 ### Task 1.2 - Publish the Booking Request app
 
@@ -62,13 +62,11 @@ In this lab you will manage your canvas app.
 
     ![Screenshot of app versions.](../media/app-versions.png)
 
-1. Select the highest version.
+1. Select the highest version, then select **Publish this version**.
 
     ![Screenshot of publishing latest version.](../media/app-publish.png)
 
-1. Select **Publish this version**.
-
-1. Select **Publish this version** again.
+1. Select **Publish this version** to confirm.
 
 ## Exercise 2 – Export
 
