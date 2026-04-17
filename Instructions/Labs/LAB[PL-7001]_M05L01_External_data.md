@@ -68,7 +68,7 @@ In this lab you will add an external data source.
 1. In the **Create a column** pane, enter or select the following values:
 
    1. Name: `Pet Name`
-   1. Data type: **Single line of text**
+   1. Type: **Single line of text**
 
 1. Select **Save**.
 
@@ -77,7 +77,7 @@ In this lab you will add an external data source.
 1. In the **Create a column** pane, enter or select the following values:
 
    1. Name: `Owner Name`
-   1. Data type: **Single line of text**
+   1. Type: **Single line of text**
 
 1. Select **Save**.
 
@@ -86,7 +86,7 @@ In this lab you will add an external data source.
 1. In the **Create a column** pane, enter or select the following values:
 
    1. Name: `Start Date`
-   1. Data type: **Date and time**
+   1. Type: **Date and time**
 
 1. Select **Save**.
 
@@ -95,7 +95,7 @@ In this lab you will add an external data source.
 1. In the **Create a column** pane, enter or select the following values:
 
    1. Name: `End Date`
-   1. Data type: **Date and time**
+   1. Type: **Date and time**
 
 1. Select **Save**.
 
@@ -293,7 +293,8 @@ In this lab you will add an external data source.
     ```powerappsfl
     Office365Users.MyProfile().Country
     ```
-> **Note:** If the user´s country is not displayed, go to `https://admin.microsoft.com`, select **Users** > **Active users**, open the user profile, select **Manage contact information**, and then set the **Country or region** field.
+> [!NOTE]
+> If the user's country doesn't display, navigate to `https://admin.microsoft.com`, select **Users** > **Active users**, select the user profile, select **Manage contact information**, set the **Country or region** field to any country, and then select **Save changes**.
 
 1. Set the properties of the label in the formula bar as follows:
 
