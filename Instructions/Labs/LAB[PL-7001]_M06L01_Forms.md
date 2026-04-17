@@ -69,7 +69,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 ### Task 1.3 - Add navigation
 
-1. In the **Tree view**, expand **BookingRequestList** in the **MainScreen**.
+1. In the **Tree view**, under **MainScreen**, expand **BookingRequestList**.
 
 1. Select **NextArrow2** in **BookingRequestList**.
 
@@ -127,7 +127,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the FormViewer's properties, select **Booking Requests** for **Data source**.
 
-1. Select **8 selected** next to **Fields**.
+1. In the **Properties** pane, select the link shown next to **Fields** (e.g., **8 selected**).
 
     ![Screenshot of default form fields.](../media/add-fields-default.png)
 
@@ -161,11 +161,11 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. Select  **FooterContainer1**.
 
-1. Select  **+** within the Footer container.
+1. In the **Footer** container, select **+**.
+
+1. Select **Text label**.
 
     ![Screenshot of adding a control to the container.](../media/add-control-container.png)
-
-1. Select **Text label**
 
 1. Set the **Text** property of the label to:
 
@@ -217,7 +217,7 @@ In this lab you will use forms to create and edit records in a data source.
 
 1. In the Form's properties, select **Booking Requests** for **Data source**.
 
-1. Select **9 selected** next to **Fields**.
+1. In the **Properties** pane, select the link shown next to **Fields** (e.g., **9 selected**).
 
 1. Add or remove the fields so that they are arranged in following order :
 
