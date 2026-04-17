@@ -42,7 +42,7 @@ In this lab you will change the colors of the controls in the app.
 
 ### Task 1.2 - Select a theme
 
-1. In action bar in the Power Apps Studio, select the Commands (**...**) and select **Theme**.
+1. In Power Apps Studio, select the **More** icon (**...**) at the bottom of the left navigation bar, and then select **Themes**.
 
     ![Screenshot of select themes.](../media/select-theme.png)
 
